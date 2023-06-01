@@ -6,7 +6,7 @@ output: html_document
 ---
 
 ## R Markdown
-
+It is a experimental rmarkdown file and it might not be accurate and several parts of it may not work. If you want to use my code please use "project.R" file rather than "project.Rmd"
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
 
